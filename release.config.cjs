@@ -1,5 +1,5 @@
 module.exports = {
-  branches: ['master', 'next', 'test_release'],
+  branches: ['main', 'next', 'test_release'],
   repositoryUrl: 'git@github.com:dimitrisfasoulas/semantic-release-759.git',
   plugins: [
     [
